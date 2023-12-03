@@ -447,6 +447,7 @@ h3 {
 }
 
 .card .card-title {
+  text-transform: none;
   font-size: 24px;
 }
 
